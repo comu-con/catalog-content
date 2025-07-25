@@ -1,0 +1,19 @@
+{
+  "name": "Cardoso Silveira S.A.",
+  "subdomain": "caldeira",
+  "email": "ana-juliasilveira@viana.com",
+  "telephone": "(081) 7031-1344",
+  "keywords": "in, dolores, perferendis, iusto, unde",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/809/52/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Trevo Maria Julia Viana, 846, Itaipu, 06130181 Novaes de Minas / RJ",
+    "latitude": "87.654032",
+    "longitude": "145.992252",
+    "postalCode": "65866850"
+  },
+  "sameAs": ["https://www.vieira.com/", "https://monteiro.br/"],
+  "type": "Dentist"
+}

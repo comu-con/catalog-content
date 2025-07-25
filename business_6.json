@@ -1,0 +1,19 @@
+{
+  "name": "Lopes e Filhos",
+  "subdomain": "fogaca",
+  "email": "rochaluiz-miguel@azevedo.br",
+  "telephone": "+55 41 7293 4256",
+  "keywords": "blanditiis, possimus, nulla, necessitatibus, deserunt",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/134/150/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Rodovia Mendes, 30, Santana Do Cafezal, 19576-847 Porto do Campo / RN",
+    "latitude": "-20.4754315",
+    "longitude": "56.976433",
+    "postalCode": "73751-055"
+  },
+  "sameAs": ["http://farias.org/", "https://cavalcanti.br/"],
+  "type": "AutoRepair"
+}

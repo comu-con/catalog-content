@@ -1,0 +1,19 @@
+{
+  "name": "Correia Alves e Filhos",
+  "subdomain": "rocha",
+  "email": "maria-vitoriacostela@barbosa.br",
+  "telephone": "+55 (031) 7534 5690",
+  "keywords": "illum, esse, odit, accusantium, modi",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/1022x986",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Residencial Gustavo Henrique Correia, 11, Frei Leopoldo, 26945232 Barbosa de Ramos / AL",
+    "latitude": "85.692778",
+    "longitude": "107.365039",
+    "postalCode": "14326-936"
+  },
+  "sameAs": ["http://www.porto.com/", "https://www.goncalves.br/"],
+  "type": "Pharmacy"
+}

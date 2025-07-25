@@ -1,0 +1,19 @@
+{
+  "name": "Gomes - ME",
+  "subdomain": "dias",
+  "email": "da-cruzcecilia@ferreira.br",
+  "telephone": "+55 84 7514-8451",
+  "keywords": "sapiente, magni, numquam, voluptatem, exercitationem",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/44/880",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Área Matheus Rodrigues, 66, Vila Fumec, 83393988 Barros da Mata / RR",
+    "latitude": "77.4045315",
+    "longitude": "-110.571442",
+    "postalCode": "80847959"
+  },
+  "sameAs": ["http://www.vieira.org/", "http://porto.org/"],
+  "type": "Hotel"
+}

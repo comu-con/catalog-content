@@ -1,0 +1,19 @@
+{
+  "name": "Viana",
+  "subdomain": "silveira",
+  "email": "gcorreia@vieira.br",
+  "telephone": "0300 557 3603",
+  "keywords": "magni, eos, reprehenderit, pariatur, illum",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/952x769",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Credit Card",
+  "geo": {
+    "address": "Ladeira de Fogaça, 71, Pirineus, 64905-280 Sales / AM",
+    "latitude": "2.1026265",
+    "longitude": "-163.215192",
+    "postalCode": "85898950"
+  },
+  "sameAs": ["http://www.alves.org/", "https://www.carvalho.com/"],
+  "type": "Motel"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "das Neves Duarte e Filhos",
+  "subdomain": "silveira",
+  "email": "henriquenogueira@da.com",
+  "telephone": "+55 (021) 7850-6285",
+  "keywords": "veritatis, nisi, maxime, dolores, dolor",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/595/765/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Trecho de Lima, 98, Jaqueline, 54497247 Pires do Campo / RJ",
+    "latitude": "-23.523978",
+    "longitude": "59.175234",
+    "postalCode": "45574-592"
+  },
+  "sameAs": ["http://carvalho.br/", "http://www.rezende.org/"],
+  "type": "GroceryStore"
+}

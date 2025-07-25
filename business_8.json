@@ -1,0 +1,19 @@
+{
+  "name": "Lima",
+  "subdomain": "viana",
+  "email": "sophie89@cardoso.com",
+  "telephone": "0800 870 2758",
+  "keywords": "ducimus, iste, vero, error, eum",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placekitten.com/513/690",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Sítio Melissa Costa, 23, Petropolis, 11935483 da Cruz da Praia / RN",
+    "latitude": "-69.9648365",
+    "longitude": "-82.203443",
+    "postalCode": "08442465"
+  },
+  "sameAs": ["https://silveira.net/", "https://fernandes.net/"],
+  "type": "AutoRepair"
+}

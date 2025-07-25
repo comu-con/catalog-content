@@ -1,0 +1,19 @@
+{
+  "name": "da Cruz - ME",
+  "subdomain": "alves",
+  "email": "pcorreia@teixeira.net",
+  "telephone": "+55 (021) 8082 5943",
+  "keywords": "possimus, qui, incidunt, rem, velit",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/740/957/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Condomínio Isabel Rezende, 77, Mala E Cuia, 00637139 da Luz / SC",
+    "latitude": "-28.7076795",
+    "longitude": "57.961391",
+    "postalCode": "55885401"
+  },
+  "sameAs": ["http://www.fernandes.br/", "https://www.ribeiro.com/"],
+  "type": "FurnitureStore"
+}

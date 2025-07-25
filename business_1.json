@@ -1,0 +1,19 @@
+{
+  "name": "Nogueira Porto S.A.",
+  "subdomain": "costela",
+  "email": "da-pazpaulo@moraes.br",
+  "telephone": "+55 (071) 0407 5372",
+  "keywords": "reprehenderit, quo, ipsa, ad, soluta",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/75x221",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Viela Ana Clara Martins, 527, Lagoinha Leblon, 33910-777 Freitas de Farias / SC",
+    "latitude": "-40.1590725",
+    "longitude": "-49.027166",
+    "postalCode": "77278437"
+  },
+  "sameAs": ["https://www.moraes.br/", "http://www.sales.com/"],
+  "type": "HairSalon"
+}

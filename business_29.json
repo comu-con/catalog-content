@@ -1,0 +1,19 @@
+{
+  "name": "das Neves e Filhos",
+  "subdomain": "almeida",
+  "email": "gabriela90@barros.br",
+  "telephone": "+55 (011) 2526-0767",
+  "keywords": "est, nam, cumque, doloremque, magni",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/238/39",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Feira de Gomes, 82, Jardim Dos Comerciarios, 30769949 Dias / RS",
+    "latitude": "3.1146405",
+    "longitude": "-28.416678",
+    "postalCode": "10931-360"
+  },
+  "sameAs": ["http://www.rezende.net/", "https://www.ferreira.br/"],
+  "type": "ElectronicsStore"
+}

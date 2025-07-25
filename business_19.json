@@ -1,0 +1,19 @@
+{
+  "name": "Rocha",
+  "subdomain": "nascimento",
+  "email": "souzaana@da.com",
+  "telephone": "0500-595-9282",
+  "keywords": "ab, delectus, modi, ab, officia",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placekitten.com/287/1007",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Vereda Maitê Vieira, 26, São Damião, 39400909 Mendes / MG",
+    "latitude": "9.2122305",
+    "longitude": "154.733056",
+    "postalCode": "67736063"
+  },
+  "sameAs": ["http://www.almeida.br/", "https://www.pinto.com/"],
+  "type": "ToyStore"
+}

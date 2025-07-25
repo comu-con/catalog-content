@@ -1,0 +1,19 @@
+{
+  "name": "Cunha",
+  "subdomain": "gomes",
+  "email": "laura24@oliveira.br",
+  "telephone": "+55 (081) 2682 8365",
+  "keywords": "quas, facere, minima, perferendis, in",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/701x1020",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Credit Card",
+  "geo": {
+    "address": "Estrada de Ribeiro, 16, Vila Batik, 49745-038 Moreira da Prata / PA",
+    "latitude": "-32.414821",
+    "longitude": "175.851278",
+    "postalCode": "01502645"
+  },
+  "sameAs": ["https://barros.net/", "https://pereira.org/"],
+  "type": "BedAndBreakfast"
+}

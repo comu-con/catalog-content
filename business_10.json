@@ -1,0 +1,19 @@
+{
+  "name": "Jesus",
+  "subdomain": "teixeira",
+  "email": "barrosvitor-gabriel@teixeira.org",
+  "telephone": "(041) 3496-7351",
+  "keywords": "ratione, aliquid, necessitatibus, totam, adipisci",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/185/557",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Avenida de Barros, 20, Cruzeiro, 94446828 Pinto / RN",
+    "latitude": "-18.176413",
+    "longitude": "3.881646",
+    "postalCode": "55410628"
+  },
+  "sameAs": ["https://www.da.net/", "http://moreira.net/"],
+  "type": "AutoDealer"
+}

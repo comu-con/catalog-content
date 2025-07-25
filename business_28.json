@@ -1,0 +1,19 @@
+{
+  "name": "Silveira",
+  "subdomain": "cardoso",
+  "email": "caldeiranathan@nogueira.com",
+  "telephone": "+55 11 4341-8747",
+  "keywords": "odit, expedita, porro, laborum, non",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/872x410",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Setor de Lopes, 2, Serra, 77483621 Araújo / PI",
+    "latitude": "-74.2653865",
+    "longitude": "-137.705695",
+    "postalCode": "83656002"
+  },
+  "sameAs": ["http://www.pinto.br/", "http://melo.com/"],
+  "type": "AutoDealer"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Fogaça",
+  "subdomain": "sales",
+  "email": "enzo-gabriel76@pinto.com",
+  "telephone": "(011) 6302 9835",
+  "keywords": "nam, aperiam, recusandae, consequatur, culpa",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/361/649",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Setor Maitê Novaes, Alto Dos Pinheiros, 74392975 Aragão dos Dourados / SP",
+    "latitude": "-6.6726485",
+    "longitude": "-12.872264",
+    "postalCode": "20344491"
+  },
+  "sameAs": ["http://cardoso.org/", "https://rodrigues.com/"],
+  "type": "ToyStore"
+}

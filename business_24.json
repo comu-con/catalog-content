@@ -1,0 +1,19 @@
+{
+  "name": "Souza",
+  "subdomain": "novaes",
+  "email": "joao26@da.br",
+  "telephone": "+55 (041) 8604 8206",
+  "keywords": "saepe, vitae, tempora, et, quis",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/454x582",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Aeroporto de da Mata, 3, Vila Trinta E Um De Março, 33485647 Viana / AL",
+    "latitude": "35.479993",
+    "longitude": "-13.907547",
+    "postalCode": "00641-539"
+  },
+  "sameAs": ["http://goncalves.br/", "http://www.ribeiro.org/"],
+  "type": "HardwareStore"
+}

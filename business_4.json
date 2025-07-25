@@ -1,0 +1,19 @@
+{
+  "name": "Monteiro e Filhos",
+  "subdomain": "da",
+  "email": "caldeiravinicius@oliveira.com",
+  "telephone": "+55 81 9370-9751",
+  "keywords": "veniam, sunt, perspiciatis, unde, harum",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/814/465/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Recanto Alves, 2, Vila Santa Monica 2ª Seção, 78350222 Barros / SP",
+    "latitude": "-5.178269",
+    "longitude": "88.472348",
+    "postalCode": "82625-457"
+  },
+  "sameAs": ["http://www.rezende.br/", "http://nogueira.br/"],
+  "type": "ShoeStore"
+}

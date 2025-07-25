@@ -1,0 +1,19 @@
+{
+  "name": "Pereira",
+  "subdomain": "goncalves",
+  "email": "pcavalcanti@duarte.net",
+  "telephone": "+55 (031) 6510-2026",
+  "keywords": "quaerat, veritatis, nostrum, odit, ipsum",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/545/752/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Ladeira Lorenzo Jesus, 4, Marajó, 96939-626 Barros Paulista / CE",
+    "latitude": "-54.230881",
+    "longitude": "26.555291",
+    "postalCode": "64369258"
+  },
+  "sameAs": ["http://www.barbosa.org/", "http://www.farias.com/"],
+  "type": "Florist"
+}

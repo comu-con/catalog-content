@@ -1,0 +1,19 @@
+{
+  "name": "Cavalcanti Carvalho Ltda.",
+  "subdomain": "da",
+  "email": "enricomelo@rezende.com",
+  "telephone": "+55 (061) 7534-2044",
+  "keywords": "voluptatibus, ut, veniam, omnis, voluptatibus",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/312/764",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Esplanada de Barbosa, 76, Salgado Filho, 34963730 Pinto / PE",
+    "latitude": "40.385351",
+    "longitude": "-148.465738",
+    "postalCode": "31600648"
+  },
+  "sameAs": ["http://ramos.br/", "https://silveira.com/"],
+  "type": "PetStore"
+}

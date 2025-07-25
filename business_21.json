@@ -1,0 +1,19 @@
+{
+  "name": "Vieira",
+  "subdomain": "araujo",
+  "email": "ufernandes@moreira.com",
+  "telephone": "21 1590-9918",
+  "keywords": "iusto, alias, eaque, reiciendis, libero",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/483/147",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Largo Farias, 97, Madre Gertrudes, 31349-666 Novaes Paulista / AM",
+    "latitude": "88.099840",
+    "longitude": "-143.106996",
+    "postalCode": "64738-404"
+  },
+  "sameAs": ["http://www.jesus.org/", "https://correia.com/"],
+  "type": "Motel"
+}

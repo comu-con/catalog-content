@@ -1,0 +1,19 @@
+{
+  "name": "da Cunha Oliveira S/A",
+  "subdomain": "monteiro",
+  "email": "calebe45@da.org",
+  "telephone": "(051) 6564 9733",
+  "keywords": "voluptates, numquam, eius, voluptate, ut",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/174x164",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Rua Marcos Vinicius Almeida, 7, Aeroporto, 79445923 Mendes / RJ",
+    "latitude": "-34.086092",
+    "longitude": "55.069260",
+    "postalCode": "31029735"
+  },
+  "sameAs": ["https://sales.com/", "https://moraes.com/"],
+  "type": "Restaurant"
+}

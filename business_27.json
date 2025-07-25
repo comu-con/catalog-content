@@ -1,0 +1,19 @@
+{
+  "name": "Teixeira",
+  "subdomain": "teixeira",
+  "email": "paulofarias@farias.com",
+  "telephone": "(081) 0768 7603",
+  "keywords": "nemo, repellat, blanditiis, ducimus, quisquam",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/763/525/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Viela Azevedo, 2, Glória, 28975680 Novaes / RR",
+    "latitude": "-44.948800",
+    "longitude": "118.058450",
+    "postalCode": "94149971"
+  },
+  "sameAs": ["http://ferreira.br/", "https://www.azevedo.br/"],
+  "type": "Pharmacy"
+}

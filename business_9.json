@@ -1,0 +1,19 @@
+{
+  "name": "Rocha da Mota S.A.",
+  "subdomain": "cunha",
+  "email": "sophie43@aragao.org",
+  "telephone": "21 2953 8623",
+  "keywords": "aliquid, doloremque, explicabo, beatae, odit",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://dummyimage.com/41x1000",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Credit Card",
+  "geo": {
+    "address": "Loteamento Duarte, 93, Marieta 3ª Seção, 43178-246 Freitas / CE",
+    "latitude": "48.860958",
+    "longitude": "171.802911",
+    "postalCode": "53631453"
+  },
+  "sameAs": ["http://www.almeida.br/", "http://www.ramos.br/"],
+  "type": "Dentist"
+}

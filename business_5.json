@@ -1,0 +1,19 @@
+{
+  "name": "Sales",
+  "subdomain": "teixeira",
+  "email": "martinsleonardo@nascimento.com",
+  "telephone": "+55 51 3242 0800",
+  "keywords": "beatae, rem, illo, corrupti, saepe",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/152/832",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Trevo de da Rosa, 551, Caiçaras, 51862893 Porto / PR",
+    "latitude": "63.0215525",
+    "longitude": "159.557394",
+    "postalCode": "34365-628"
+  },
+  "sameAs": ["https://www.pires.net/", "https://www.gomes.br/"],
+  "type": "JewelryStore"
+}

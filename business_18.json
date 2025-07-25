@@ -1,0 +1,19 @@
+{
+  "name": "Cavalcanti",
+  "subdomain": "silveira",
+  "email": "ana-luiza54@carvalho.com",
+  "telephone": "41 8932 5847",
+  "keywords": "quae, ducimus, excepturi, voluptatem, explicabo",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/1013/327/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Debit Card",
+  "geo": {
+    "address": "Loteamento de Silveira, 89, Mangabeiras, 99198-680 Nunes / RR",
+    "latitude": "-81.716596",
+    "longitude": "-73.801124",
+    "postalCode": "63460-976"
+  },
+  "sameAs": ["http://ferreira.br/", "https://www.moreira.br/"],
+  "type": "HardwareStore"
+}

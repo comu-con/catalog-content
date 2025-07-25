@@ -1,0 +1,19 @@
+{
+  "name": "Castro Ltda.",
+  "subdomain": "mendes",
+  "email": "diasana-clara@da.br",
+  "telephone": "61 0979 2291",
+  "keywords": "reiciendis, repudiandae, est, animi, quam",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/822/115",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Avenida Ryan Araújo, 68, Beija Flor, 00424-955 Jesus / RO",
+    "latitude": "-6.028609",
+    "longitude": "-88.987157",
+    "postalCode": "66694337"
+  },
+  "sameAs": ["https://almeida.org/", "http://www.lopes.org/"],
+  "type": "BeautySalon"
+}

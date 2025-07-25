@@ -1,0 +1,19 @@
+{
+  "name": "Aragão Nogueira S.A.",
+  "subdomain": "cardoso",
+  "email": "oliveiramaria-luiza@fogaca.net",
+  "telephone": "+55 (031) 0950 0716",
+  "keywords": "sequi, sequi, soluta, maiores, qui",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/528/937",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Pix",
+  "geo": {
+    "address": "Quadra Sales, 7, Bonsucesso, 49945777 Sales de Minas / AC",
+    "latitude": "9.6367305",
+    "longitude": "61.604573",
+    "postalCode": "40210-391"
+  },
+  "sameAs": ["https://freitas.com/", "http://nascimento.net/"],
+  "type": "Hotel"
+}

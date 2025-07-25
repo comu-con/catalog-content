@@ -1,0 +1,19 @@
+{
+  "name": "Pires",
+  "subdomain": "fogaca",
+  "email": "giovanna45@da.br",
+  "telephone": "0500 600 9418",
+  "keywords": "ducimus, enim, pariatur, fuga, rem",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placekitten.com/94/790",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Cash",
+  "geo": {
+    "address": "Núcleo Gomes, 29, Alto Vera Cruz, 96993-915 Rocha de da Costa / AL",
+    "latitude": "56.2249705",
+    "longitude": "-27.528339",
+    "postalCode": "62981-380"
+  },
+  "sameAs": ["http://porto.org/", "http://ramos.br/"],
+  "type": "HardwareStore"
+}

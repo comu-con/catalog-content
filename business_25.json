@@ -1,0 +1,19 @@
+{
+  "name": "Ferreira - ME",
+  "subdomain": "da",
+  "email": "salesdanilo@da.br",
+  "telephone": "+55 (031) 2792 8768",
+  "keywords": "ducimus, placeat, autem, molestiae, molestiae",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://placeimg.com/868/622/any",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPayme     ntMethod": "Pix",
+  "geo": {
+    "address": "Aeroporto Ramos, Vila Ouro Minas, 21375-540 Cavalcanti / SE",
+    "latitude": "-21.790286",
+    "longitude": "89.522938",
+    "postalCode": "74843442"
+  },
+  "sameAs": ["https://www.nascimento.com/", "https://da.org/"],
+  "type": "Bakery"
+}

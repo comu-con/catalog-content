@@ -1,0 +1,19 @@
+{
+  "name": "da Rosa Fogaça e Filhos",
+  "subdomain": "da",
+  "email": "salesmiguel@santos.com",
+  "telephone": "0500-496-3717",
+  "keywords": "pariatur, aspernatur, beatae, atque, id",
+  "logo": "https://dummyimage.com/823x508",
+  "photo": "https://www.lorempixel.com/416/140",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "acceptedPaymentMethod": "Credit Card",
+  "geo": {
+    "address": "Estrada de Rocha, Lindéia, 78427-385 Fogaça de Vieira / CE",
+    "latitude": "69.9263865",
+    "longitude": "-16.301926",
+    "postalCode": "03495-261"
+  },
+  "sameAs": ["http://www.campos.br/", "http://da.br/"],
+  "type": "BankOrCreditUnion"
+}
